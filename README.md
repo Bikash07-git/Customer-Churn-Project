@@ -248,7 +248,7 @@ Billing experience and pricing strategies significantly impact customer retentio
 
 ## Churn Drivers Analysis
 
-![Churn Drivers Analysis](Churn Drivers.png)
+![Churn Drivers Analysis](images/Churn Drivers.png)
 
 ---
 
