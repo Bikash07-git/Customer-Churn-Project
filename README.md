@@ -81,34 +81,6 @@ The project uses the Telco Customer Churn Dataset containing customer demographi
 ### Business Domain
 
 Telecommunications Industry
-
----
-
-# 📂 Project Structure
-
-```text
-Customer Churn Analysis and Prediction
-│
-├── data/
-│   └── churn.csv
-│
-├── notebooks/
-│   └── customer_churn_analysis.ipynb
-│
-├── dashboard/
-│   └── Customer_Churn_Dashboard.pbix
-│
-├── images/
-│   ├── executive_summary.png
-│   ├── customer_demographics.png
-│   ├── churn_drivers.png
-│   └── revenue_billing_analysis.png
-│
-├── requirements.txt
-│
-└── README.md
-```
-
 ---
 
 # 📈 Project Workflow
@@ -236,7 +208,7 @@ Billing experience and pricing strategies significantly impact customer retentio
 
 ## Executive Summary
 
-![Executive Summary](images/executive_summary.png)
+![Executive Summary](images/Executive Summary.png)
 
 ---
 
