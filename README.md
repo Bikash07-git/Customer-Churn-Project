@@ -236,7 +236,7 @@ Billing experience and pricing strategies significantly impact customer retentio
 
 ## Executive Summary
 
-![Executive Summary](images/executive_summary.png)
+![Executive Summary]("F:\Customer Churn Analysis and Prediction\Models\Executive Summary.png")
 
 ---
 
@@ -348,27 +348,3 @@ The insights generated through this analysis can help businesses:
 * Automated Churn Risk Scoring
 * Real-Time Power BI Dashboard
 * Automated Reporting Pipeline
-
----
-
-# 👨‍💻 Author
-
-## Bikash Sagar Koiri
-
-**M.Tech (Computer Science & Engineering)**
-**BIT Mesra, Ranchi**
-
-### Areas of Interest
-
-* Data Science
-* Machine Learning
-* Artificial Intelligence
-* Business Analytics
-
-### Connect With Me
-
-GitHub: https://github.com/Bikash07-git
-
----
-
-⭐ If you found this project useful, consider giving it a star and sharing your feedback!
