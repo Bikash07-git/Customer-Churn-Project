@@ -236,7 +236,7 @@ Billing experience and pricing strategies significantly impact customer retentio
 
 ## Executive Summary
 
-![Executive Summary]("F:\Customer Churn Analysis and Prediction\Models\Executive Summary.png")
+![Executive Summary]("Executive Summary.png")
 
 ---
 
