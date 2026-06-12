@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Ready-orange)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange)
 
 ---
 
