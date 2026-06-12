@@ -201,33 +201,6 @@ Evaluates the relationship between billing characteristics and customer churn.
 ### Business Interpretation
 
 Billing experience and pricing strategies significantly impact customer retention.
-
----
-
-# 📸 Dashboard Screenshots
-
-## Executive Summary
-
-![Executive Summary](images/Executive Summary.png)
-
----
-
-## Customer Demographics Analysis
-
-![Customer Demographics Analysis](images/customer_demographics.png)
-
----
-
-## Churn Drivers Analysis
-
-![Churn Drivers Analysis](images/churn_drivers.png)
-
----
-
-## Revenue & Billing Analysis
-
-![Revenue & Billing Analysis](images/revenue_billing_analysis.png)
-
 ---
 
 # 🔑 Key Business Insights
