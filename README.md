@@ -236,7 +236,7 @@ Billing experience and pricing strategies significantly impact customer retentio
 
 ## Executive Summary
 
-![Executive Summary]("Executive Summary.png")
+![Executive Summary](images/executive_summary.png)
 
 ---
 
@@ -348,3 +348,5 @@ The insights generated through this analysis can help businesses:
 * Automated Churn Risk Scoring
 * Real-Time Power BI Dashboard
 * Automated Reporting Pipeline
+
+⭐ If you found this project useful, consider giving it a star and sharing your feedback!
