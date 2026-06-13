@@ -71,7 +71,7 @@ Examines revenue-related churn patterns such as payment methods, monthly charges
 
 ### Executive Summary
 
-<img src="Customer%20Churn%20Analysis%20Dashboard.png" width="450">
+<img src="./Customer%20Churn%20Analysis%20Dashboard.png" width="450">
 
 </td>
 
