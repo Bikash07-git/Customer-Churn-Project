@@ -71,7 +71,7 @@ Examines revenue-related churn patterns such as payment methods, monthly charges
 
 ### Executive Summary
 
-![Executive Summary](images/Executive%20Summary.png)
+![Executive Summary](Customer%20Churn%20Analysis%20Dashboard.png)
 
 </td>
 
@@ -79,7 +79,7 @@ Examines revenue-related churn patterns such as payment methods, monthly charges
 
 ### Customer Demographics
 
-<img src="images/customer_demographics.png" width="450">
+![Customer Demographics](Customer%20Demographics%20Analysis.png)
 
 </td>
 </tr>
@@ -89,7 +89,7 @@ Examines revenue-related churn patterns such as payment methods, monthly charges
 
 ### Churn Drivers
 
-<img src="images/churn_drivers.png" width="450">
+![Churn Drivers](Churn%20Drivers.png)
 
 </td>
 
@@ -97,7 +97,7 @@ Examines revenue-related churn patterns such as payment methods, monthly charges
 
 ### Revenue & Billing
 
-<img src="images/revenue_billing_analysis.png" width="450">
+![Revenue Analysis](Revenue%20%26%20Billing%20Analysis.png)
 
 </td>
 </tr>
