@@ -71,7 +71,7 @@ Examines revenue-related churn patterns such as payment methods, monthly charges
 
 ### Executive Summary
 
-<img src="images/executive_summary.png" width="450">
+![Executive Summary](images/Executive%20Summary.png)
 
 </td>
 
