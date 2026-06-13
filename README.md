@@ -17,53 +17,109 @@ The insights generated from this analysis can help organizations implement targe
 
 ---
 
+# 📸 Dashboard Preview
+
+Explore the interactive Power BI dashboard developed as part of this project. The dashboard provides comprehensive insights into customer churn behavior, customer demographics, revenue patterns, and key churn drivers.
+
+---
+
+## 📊 Executive Summary
+
+Provides a high-level overview of customer churn KPIs including total customers, churned customers, retention rate, and churn rate.
+
+<p align="center">
+  <img src="images/executive_summary.png" alt="Executive Summary Dashboard" width="1000">
+</p>
+
+---
+
+## 👥 Customer Demographics Analysis
+
+Analyzes churn behavior across different customer demographics such as gender, senior citizen status, partner status, and dependents.
+
+<p align="center">
+  <img src="images/customer_demographics.png" alt="Customer Demographics Dashboard" width="1000">
+</p>
+
+---
+
+## 🚨 Churn Drivers Analysis
+
+Highlights the key factors contributing to customer churn including contract type, internet services, online security, tech support, and customer tenure.
+
+<p align="center">
+  <img src="images/churn_drivers.png" alt="Churn Drivers Dashboard" width="1000">
+</p>
+
+---
+
+## 💰 Revenue & Billing Analysis
+
+Examines revenue-related churn patterns such as payment methods, monthly charges, total charges, and billing preferences.
+
+<p align="center">
+  <img src="images/revenue_billing_analysis.png" alt="Revenue & Billing Dashboard" width="1000">
+</p>
+
+---
+
 # 🖼️ Dashboard Gallery
 
-<table align="center">
+<table>
 <tr>
-
 <td align="center">
-<h3>📊 Executive Summary</h3>
-<img src="Customer%20Churn%20Analysis%20Dashboard.png" width="450">
+
+### Executive Summary
+
+<img src="images/executive_summary.png" width="450">
+
 </td>
 
 <td align="center">
-<h3>👥 Customer Demographics</h3>
-<img src="Customer%20Demographics%20Analysis.png" width="450">
-</td>
 
+### Customer Demographics
+
+<img src="images/customer_demographics.png" width="450">
+
+</td>
 </tr>
 
 <tr>
-
 <td align="center">
-<h3>🚨 Churn Drivers</h3>
-<img src="Churn%20Drivers.png" width="450">
+
+### Churn Drivers
+
+<img src="images/churn_drivers.png" width="450">
+
 </td>
 
 <td align="center">
-<h3>💰 Revenue & Billing Analysis</h3>
-<img src="Revenue%20%26%20Billing%20Analysis.png" width="450">
-</td>
 
+### Revenue & Billing
+
+<img src="images/revenue_billing_analysis.png" width="450">
+
+</td>
 </tr>
 </table>
 
 ---
 
-## 📊 Dashboard Highlights
+## 📈 Dashboard Highlights
 
-✅ Executive Summary with KPI Metrics
+✅ Churn Rate Analysis
 
-✅ Customer Demographics Analysis
+✅ Customer Retention Metrics
 
-✅ Churn Driver Identification
+✅ Demographic Segmentation
 
-✅ Revenue & Billing Analysis
+✅ Contract-Based Churn Analysis
+
+✅ Revenue & Billing Insights
+
+✅ Customer Risk Identification
 
 ✅ Business Recommendations
-
-✅ Customer Retention Insights
 
 ---
 
