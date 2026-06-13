@@ -17,6 +17,112 @@ The insights generated from this analysis can help organizations implement targe
 
 ---
 
+# 📸 Dashboard Preview
+
+Explore the interactive Power BI dashboard developed as part of this project. The dashboard provides comprehensive insights into customer churn behavior, customer demographics, revenue patterns, and key churn drivers.
+
+---
+
+## 📊 Executive Summary
+
+Provides a high-level overview of customer churn KPIs including total customers, churned customers, retention rate, and churn rate.
+
+<p align="center">
+  <img src="images/executive_summary.png" alt="Executive Summary Dashboard" width="1000">
+</p>
+
+---
+
+## 👥 Customer Demographics Analysis
+
+Analyzes churn behavior across different customer demographics such as gender, senior citizen status, partner status, and dependents.
+
+<p align="center">
+  <img src="images/customer_demographics.png" alt="Customer Demographics Dashboard" width="1000">
+</p>
+
+---
+
+## 🚨 Churn Drivers Analysis
+
+Highlights the key factors contributing to customer churn including contract type, internet services, online security, tech support, and customer tenure.
+
+<p align="center">
+  <img src="images/churn_drivers.png" alt="Churn Drivers Dashboard" width="1000">
+</p>
+
+---
+
+## 💰 Revenue & Billing Analysis
+
+Examines revenue-related churn patterns such as payment methods, monthly charges, total charges, and billing preferences.
+
+<p align="center">
+  <img src="images/revenue_billing_analysis.png" alt="Revenue & Billing Dashboard" width="1000">
+</p>
+
+---
+
+# 🖼️ Dashboard Gallery
+
+<table>
+<tr>
+<td align="center">
+
+### Executive Summary
+
+<img src="images/executive_summary.png" width="450">
+
+</td>
+
+<td align="center">
+
+### Customer Demographics
+
+<img src="images/customer_demographics.png" width="450">
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### Churn Drivers
+
+<img src="images/churn_drivers.png" width="450">
+
+</td>
+
+<td align="center">
+
+### Revenue & Billing
+
+<img src="images/revenue_billing_analysis.png" width="450">
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 Dashboard Highlights
+
+✅ Churn Rate Analysis
+
+✅ Customer Retention Metrics
+
+✅ Demographic Segmentation
+
+✅ Contract-Based Churn Analysis
+
+✅ Revenue & Billing Insights
+
+✅ Customer Risk Identification
+
+✅ Business Recommendations
+
+---
+
 # 🎯 Project Objectives
 
 * Analyze customer churn patterns.
