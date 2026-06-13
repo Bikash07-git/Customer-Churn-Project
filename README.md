@@ -28,7 +28,7 @@ Explore the interactive Power BI dashboard developed as part of this project. Th
 Provides a high-level overview of customer churn KPIs including total customers, churned customers, retention rate, and churn rate.
 
 <p align="center">
-  <img src="images/executive_summary.png" alt="Executive Summary Dashboard" width="1000">
+  <img src="images/Customer%20Churn%20Analysis%20Dashboard.png" alt="Executive Summary Dashboard" width="1000">
 </p>
 
 ---
@@ -38,7 +38,7 @@ Provides a high-level overview of customer churn KPIs including total customers,
 Analyzes churn behavior across different customer demographics such as gender, senior citizen status, partner status, and dependents.
 
 <p align="center">
-  <img src="images/customer_demographics.png" alt="Customer Demographics Dashboard" width="1000">
+  <img src="images/Customer%20Demographics%20Analysis.png" alt="Customer Demographics Dashboard" width="1000">
 </p>
 
 ---
@@ -48,7 +48,7 @@ Analyzes churn behavior across different customer demographics such as gender, s
 Highlights the key factors contributing to customer churn including contract type, internet services, online security, tech support, and customer tenure.
 
 <p align="center">
-  <img src="images/churn_drivers.png" alt="Churn Drivers Dashboard" width="1000">
+  <img src="images/Churn%20Drivers.png" alt="Churn Drivers Dashboard" width="1000">
 </p>
 
 ---
@@ -58,7 +58,7 @@ Highlights the key factors contributing to customer churn including contract typ
 Examines revenue-related churn patterns such as payment methods, monthly charges, total charges, and billing preferences.
 
 <p align="center">
-  <img src="images/revenue_billing_analysis.png" alt="Revenue & Billing Dashboard" width="1000">
+  <img src="images/Revenue%20%26%20Billing%20Analysis.png" alt="Revenue & Billing Dashboard" width="1000">
 </p>
 
 ---
